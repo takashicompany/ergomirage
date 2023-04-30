@@ -21,7 +21,7 @@ Ergomirage(エルゴミラージュ)
 |:--|:--|:--|
 |[Cherry MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|44||
 |キーキャップ|44|全て1uサイズ|
-|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
+|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|1|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
 
 ### お好みで
 |部品|個数|備考|
