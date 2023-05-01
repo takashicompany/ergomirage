@@ -88,6 +88,13 @@ Remapからファームウェアを書き込みます。
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
+RemapからVIA対応ファームウェアを書き込み後、RemapのTest Matrix Modeを開きます。  
+<img src = "https://user-images.githubusercontent.com/4215759/235498918-e779201f-b11f-40db-ab1c-f4741852764c.png" width = "600px" />
+
+Test Matrix Modeでは、キーが正しく入力されているかを確認することができます。
+押したキーの箇所が点灯することを確認します。  
+<img src = "https://user-images.githubusercontent.com/4215759/235499144-41df71d3-16b1-46a6-a719-8b7d3401c70b.png" width = "600px" />
+
 ピンセット等でPCB裏面の各キースイッチのハンダ付け箇所を導通させることで、キースイッチをハンダ付けする前に各キーが正しく動作するかを確認できます。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4481.jpg" width = "600px" />
 
