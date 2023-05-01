@@ -153,11 +153,14 @@ PCBの裏面からキースイッチの足が出ていることを確認し、�
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4498.jpg" width = "600px" />
 
 ### 8. ゴム足シールの取り付け
-ゴム足シール
 
+ゴム足シールをお好きな箇所に貼り付けます。  
 <img src = "https://github.com/takashicompany/minidivide/raw/master/images/build/IMG_3748.jpg?raw=true" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+### 9. キーキャップを取り付ける
+
+最後にキーキャップを取り付けて完成です。
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4499.jpg" width = "600px" />
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
