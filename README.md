@@ -113,7 +113,8 @@ Remapからファームウェアを書き込みます。
 キースイッチプレートにキースイッチを差し込みます。キースイッチプレートは表裏がございませんので、お好きな方を表としてお使いください。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4484.jpg" width = "600px" />
 
-キースイッチをいくつかキースイッチプレートに取り付けたら準備完了です。  
+数個のキースイッチでスイッチプレートとPCBを仮組みをします。
+キースイッチを数個程度キースイッチプレートに取り付けたら準備完了です。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4482.jpg" width = "600px" />
 
 キースイッチがスイッチプレートから外れないように裏返し、PCBを載せます。  
@@ -122,23 +123,39 @@ Remapからファームウェアを書き込みます。
 PCBの裏面からキースイッチの足が出ていることを確認し、ハンダ付けを行います。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4486.jpg" width = "600px" />
 
+仮組み用のキースイッチのハンダ付けが終わったら、表面にしてスイッチプレートが固定されていることを確認します。  
+慣れていない方は、各キースイッチが動作するかを確認すると着実に完成に近づきます。
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4487.jpg" width = "600px" />
+
+残りのキースイッチをスイッチプレートに取り付けます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4489.jpg" width = "600px" />
+
+仮組みと同様に各キースイッチから足が出ているかを確認し、問題なければハンダ付けを行います。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4490.jpg" width = "600px" />
+
+全てのスイッチをハンダ付けした後に、再度Pro MicroとPCをUSBケーブルで繋ぎ、全てのキースイッチが動作することを確認すると手戻りが少なくなるかと思います。
+
+### 7. ボトムプレートの取り付け
+
+ボトムプレートを取り出します。スイッチプレートと同様に保護シートが貼られている場合は剥がしてください。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4492.jpg" width = "600px" />
+
+スペーサーとネジでスイッチプレートとボトムプレートを固定します。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4493.jpg" width = "600px" />
+
+スイッチプレートを裏返して、ネジとスペーサーを内側(キースイッチの十字とは逆の向き)に取り付けます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4494.jpg" width = "600px" />
+
+スイッチプレート全ての穴にネジとスペーサーを取り付けます。全部で14箇所になります。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+ボトムプレートを先程取り付けスペーサーに載せ、ネジで固定します。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4498.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+### 8. ゴム足シールの取り付け
+ゴム足シール
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/raw/master/images/build/IMG_3748.jpg?raw=true" width = "600px" />
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
