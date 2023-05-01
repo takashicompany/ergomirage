@@ -27,3 +27,174 @@ Ergomirage(エルゴミラージュ)
 |部品|個数|備考|
 |:--|:--|:--|
 |[コンスルー](https://talpkeyboard.net/?category_id=5e451917cf327f255e6ae3ba)|2|Pro Microにハンダ付けを行うことでPCBとのハンダ付けが不要になります。Pro Microが壊れた際などに交換が容易になりますので、可能な限り取り付けをオススメします。|
+
+### 1. PCBの表裏を確認する
+
+表
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4451.jpg" width = "600px" />
+
+裏
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4455.jpg" width = "600px" />
+
+### 2. ダイオードの取り付け
+
+各キースイッチの電流を通す・押下を検知するためにダイオードを取り付けます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4454.jpg" width = "600px" />
+
+ダイオードのハンダ付け箇所の片側に事前にハンダを乗せておきます。(予備ハンダ)
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4455.jpg" width = "600px" />
+
+ピンセットでダイオードを持ち、予備ハンダを溶かしながらダイオードの片側をハンダ付けします。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4456.jpg" width = "600px" />
+
+もう片側もハンダ付けをして取り付け完了です。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4458.jpg" width = "600px" />
+
+### 3. リセットスイッチの取り付け
+
+リセット
+### 3. リセットスイッチの取り付け
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
