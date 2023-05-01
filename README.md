@@ -52,41 +52,75 @@ Ergomirage(エルゴミラージュ)
 
 ### 3. リセットスイッチの取り付け
 
-リセット
-### 3. リセットスイッチの取り付け
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+リセットスイッチを取り付けます。リセットスイッチはPro Microにファームウェアを書き込む際などに書き込み状態にする役割などがあります。  
+取り付け位置はPCB裏面の中央、ProMicro取付箇所の裏側です。  
+ダイオードと同じ要領で一箇所のみ予備ハンダを行います。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4461.jpg" width = "600px" />
+
+ダイオードと同様に、ピンセットでリセットスイッチを持ちながら予備ハンダを溶かして取り付けます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4462.jpg" width = "600px" />
+
+残りの3箇所もハンダ付け行います。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4465.jpg" width = "600px" />
+
+### 4. Pro Microの取り付け
+
+Pro MicroをPCBに取り付けます。  
+PCBとPro Microをピンヘッダでハンダ付けすることも可能ですが、慣れていない方はコンスルーを利用されると良いかと思います。  
+コンスルーをPro Microにハンダ付けすることで、Pro MicroをPCBに挿し込むだけで使用することができます。  
+Pro Microが壊れたりした際に取り替えが容易になりますので、コンスルーの使用を強く推奨します。  
+
+コンスルー(ピンヘッダ)をPro Microにハンダ付けします。一般的なPro Microの場合、チップなどが載った面が下側になるように、コンスルー(ピンヘッダ)を配置しハンダ付けをします。(Pro MicroとPCBのピン番号が合うかを確認してください。)
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4467.jpg" width = "600px" />
+
+Pro Microの基板側から見たときの図。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4468.jpg" width = "600px" />
+
+Pro MicroをPCBに取り付けます。PCBの表面にPro Microを差し込みます。Pro MicroとPCBのピン番号が合致していることを確認しながら取り付けてください。ピンヘッダの場合はPCBの裏面からピンヘッダをハンダ付けします。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4469.jpg" width = "600px" />
+
+### 5. 各キーが動作しているかを確認する
+
+Pro MicroにUSBケーブルを取り付けて、PCと接続します。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4479.jpg" width = "600px" />
+
+Remapからファームウェアを書き込みます。  
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
+ピンセット等でPCB裏面の各キースイッチのハンダ付け箇所を導通させることで、キースイッチをハンダ付けする前に各キーが正しく動作するかを確認できます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4481.jpg" width = "600px" />
+
+全て点灯したら、ダイオードハンダ付けが問題なく行えていることとなります。  
+仮に点灯しない箇所がありましたら、ダイオードのハンダ付けかPro MicroとPCBの接続が上手くいってないことが原因として考えられますので、確認をしてみてください。
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+### 6. キースイッチとスイッチプレートの取り付け
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+キースイッチをPCBに取り付けます。  
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+キースイッチプレートを取り出し、保護シートが貼ってある場合は両面ともに剥がします。  
+剥がしづらい場合は、水を保護シートに含ませる・ピンセットなどで剥がすと良いかと思います。  
+尚、製造の工程でアクリル板をカットした際に、一部に小さな指紋のような汚れがついてしまうことがございます。ご了承ください。
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4466.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+ご用意頂いたキースイッチをいくつか取り付けます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4478.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+キースイッチプレートにキースイッチを差し込みます。キースイッチプレートは表裏がございませんので、お好きな方を表としてお使いください。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4484.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+キースイッチをいくつかキースイッチプレートに取り付けたら準備完了です。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4482.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+キースイッチがスイッチプレートから外れないように裏返し、PCBを載せます。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4485.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+PCBの裏面からキースイッチの足が出ていることを確認し、ハンダ付けを行います。  
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4486.jpg" width = "600px" />
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
