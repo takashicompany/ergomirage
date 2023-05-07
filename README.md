@@ -1,6 +1,12 @@
 # Ergomirage
 
-Ergomirage(エルゴミラージュ)
+![image](https://user-images.githubusercontent.com/4215759/236667857-117c0653-d2c5-4e63-bf0d-a06510bcd19d.png)
+
+Ergomirage(エルゴミラージュ)は、手配線のキーボードのような透明感をキットとして実現するべく設計されたキーボードです。
+
+PCBの面積を極限まで減らし、透明なアクリルケースを用いることで、まるでキーだけが浮きがるような印象を醸し出します。
+
+またキー配列も透明感を演出しつつも、実用性を踏まえたデザインとなっています。
 
 ## 部品
 
@@ -169,7 +175,7 @@ PCBの裏面からキースイッチの足が出ていることを確認し、�
 最後にキーキャップを取り付けて完成です。
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4499.jpg" width = "600px" />
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+<!---
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
@@ -259,3 +265,7 @@ PCBの裏面からキースイッチの足が出ていることを確認し、�
 
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
+<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+
+
+--->
