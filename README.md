@@ -1,6 +1,6 @@
 # Ergomirage
 
-![image](https://user-images.githubusercontent.com/4215759/236667857-117c0653-d2c5-4e63-bf0d-a06510bcd19d.png)
+<img src ="https://user-images.githubusercontent.com/4215759/236667857-117c0653-d2c5-4e63-bf0d-a06510bcd19d.png" width = "600px" />
 
 Ergomirage(エルゴミラージュ)は、手配線のキーボードのような透明感をキットとして実現するべく設計されたキーボードです。
 
@@ -172,7 +172,7 @@ PCBの裏面からキースイッチの足が出ていることを確認し、�
 
 ### 9. キーキャップを取り付ける
 
-最後にキーキャップを取り付けて完成です。
+最後にキーキャップを取り付けて完成です。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4499.jpg" width = "600px" />
 
 <!---
