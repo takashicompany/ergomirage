@@ -91,7 +91,7 @@ Pro MicroにUSBケーブルを取り付けて、PCと接続します。
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4479.jpg" width = "600px" />
 
 [Remap](https://remap-keys.app/catalog/bOtvavSd8ne4UaCphfHA/firmware)からファームウェアを書き込みます。  
-
+Remapは、Webブラウザからキーマップを変更することができるWebアプリです。使い方などは[こちら](https://salicylic-acid3.hatenablog.com/entry/remap-manual)の記事を読むと良いかと思います。  
 <img src = "https://user-images.githubusercontent.com/4215759/236870851-b60020ea-8255-4d1f-a633-fdc215bf73f0.png" width = "600px" />
 
 RemapからVIA対応ファームウェアを書き込み後、RemapのTest Matrix Modeを開きます。  
