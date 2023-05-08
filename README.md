@@ -106,10 +106,6 @@ Test Matrix Modeでは、キーが正しく入力されているかを確認す�
 
 全て点灯したら、ダイオードハンダ付けが問題なく行えていることとなります。  
 仮に点灯しない箇所がありましたら、ダイオードのハンダ付けかPro MicroとPCBの接続が上手くいってないことが原因として考えられますので、確認をしてみてください。
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
-
-
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
 
 ### 6. キースイッチとスイッチプレートの取り付け
 
