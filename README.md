@@ -90,9 +90,9 @@ Pro MicroをPCBに取り付けます。PCBの表面にPro Microを差し込み�
 Pro MicroにUSBケーブルを取り付けて、PCと接続します。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4479.jpg" width = "600px" />
 
-Remapからファームウェアを書き込みます。  
+[Remap](https://remap-keys.app/catalog/bOtvavSd8ne4UaCphfHA/firmware)からファームウェアを書き込みます。  
 
-<img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_.jpg" width = "600px" />
+<img src = "https://user-images.githubusercontent.com/4215759/236870851-b60020ea-8255-4d1f-a633-fdc215bf73f0.png" width = "600px" />
 
 RemapからVIA対応ファームウェアを書き込み後、RemapのTest Matrix Modeを開きます。  
 <img src = "https://user-images.githubusercontent.com/4215759/235498918-e779201f-b11f-40db-ab1c-f4741852764c.png" width = "600px" />
