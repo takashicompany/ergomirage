@@ -36,10 +36,10 @@ PCBの面積を極限まで減らし、透明なアクリルケースを用い�
 
 ### 1. PCBの表裏を確認する
 
-表
+表  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4451.jpg" width = "600px" />
 
-裏
+裏  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4455.jpg" width = "600px" />
 
 ### 2. ダイオードの取り付け
@@ -76,7 +76,7 @@ PCBとPro Microをピンヘッダでハンダ付けすることも可能です�
 コンスルーをPro Microにハンダ付けすることで、Pro MicroをPCBに挿し込むだけで使用することができます。  
 Pro Microが壊れたりした際に取り替えが容易になりますので、コンスルーの使用を強く推奨します。  
 
-コンスルー(ピンヘッダ)をPro Microにハンダ付けします。一般的なPro Microの場合、チップなどが載った面が下側になるように、コンスルー(ピンヘッダ)を配置しハンダ付けをします。(Pro MicroとPCBのピン番号が合うかを確認してください。)
+コンスルー(ピンヘッダ)をPro Microにハンダ付けします。一般的なPro Microの場合、チップなどが載った面が下側になるように、コンスルー(ピンヘッダ)を配置しハンダ付けをします。Pro MicroとPCBのピン番号が合うかを確認してください。  
 <img src = "https://raw.githubusercontent.com/takashicompany/ergomirage/master/images/build/IMG_4467.jpg" width = "600px" />
 
 Pro Microの基板側から見たときの図。  
